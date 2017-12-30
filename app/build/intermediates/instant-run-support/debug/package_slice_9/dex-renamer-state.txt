@@ -1,0 +1,4 @@
+#Sat Dec 30 16:03:09 WIB 2017
+base.0=/Users/nandoseptianhusni/Downloads/SecondKotlin/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex
